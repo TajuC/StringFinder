@@ -14,7 +14,7 @@ Clone the repository and change into the project directory. Creating a virtual e
 
 Linux and macOS
 ```
-git clone https://github.com/<your-org-or-user>/<your-repo>.git
+git clone https://github.com/TajuC/StringFinder
 cd <your-repo>
 python -m venv .venv
 . .venv/bin/activate
@@ -22,7 +22,7 @@ python -m venv .venv
 
 Windows PowerShell
 ```
-git clone https://github.com/<your-org-or-user>/<your-repo>.git
+git clone https://github.com/TajuC/StringFinder
 cd <your-repo>
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
